@@ -1,0 +1,36 @@
+.for-home:before {
+  content: '';
+  position: absolute;
+  top: 60px;
+  background: url(images/foot.png);
+  width: 20%;
+  height: 100%;
+  background-repeat: no-repeat;
+  z-index: 1;
+  background-size: contain;
+  right: 0px;
+  }
+  .wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+
+ 
+.customalert {
+  position: fixed;
+  padding: 15px 20px;
+  min-width: 180px;
+  z-index: 99999;
+  left: -35px;
+  top: 50%;
+  transform: rotate(270deg) translateY(-50%);
+  text-align: center;
+  background: rgba(242, 222, 222, 0.5)
+}
+
+
+.inner_banner {
+  background: url('http://localhost/ministry/public/templates/template_2/images/banner_img.jpg') !important;
+}

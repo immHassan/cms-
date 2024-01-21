@@ -1,0 +1,3 @@
+<html><head><title>Test name</title><style>h2{
+color:red
+}</style><script>alert(1)</script></head> <body><section class="custom_component" id="imo1"><div class="custom_navbar"><h3 class="m-0"> Navbar </h3></div></section><section class="custom_component" id="iiej"><div class="news_slider"><h3 class="m-0"> News Slider </h3></div></section><section class="custom_component" id="ihus"><div class="banner_slider"><h3 class="m-0"> Banner Slider </h3></div></section><style>* { box-sizing: border-box; } body {margin: 0;}#imo1{background-color:#fffbea;padding:10px;}#iiej{background-color:#fffbea;padding:10px;}#ihus{background-color:#fffbea;padding:10px;}</style> </body></html> 
